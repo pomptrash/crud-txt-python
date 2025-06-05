@@ -5,7 +5,7 @@ Esse é um dos primeiros CRUDs que desenvolvi em Python. Mistura a lógica de pr
 
 
 ## Execução:
-Baixe os arquivos e execute no terminal:
+Baixe os arquivos. No terminal, siga até o diretório onde eles estão e execute:
 ```
 python main.py
 ```
